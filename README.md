@@ -51,4 +51,6 @@ To reset the extension's state, clear all saved pages, and return to the initial
 * The extension's messages are displayed in a box at the top right of your screen.
 * Information about the developer, Hikari16, and links to the project's README file on GitHub are included in the messages.
 * Some internal processes, like merging image blobs for manga pages, are handled automatically by the extension.
-* If a specific page was already saved during a previous scan, the extension will update its count or skip it based on dump_check
+* If a specific page was already saved during a previous scan, the extension will update its count or skip it based on dump_check.
+
+6. In case of errors or if you want to contact me mail me to: evelynshefield@gmail.com.
