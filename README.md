@@ -1,4 +1,4 @@
-# All-Manga-Download
+# All-Manga-Downloader
 
 All Manga Downloader: User Guide
 
